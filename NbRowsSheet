@@ -1,0 +1,1 @@
+NbRow = Range("A1").End(xlDown).Row ' S'il n' y a pas de lignes vides
